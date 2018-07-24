@@ -1,0 +1,22 @@
+.top {   
+    text-align: center;
+    color: whitesmoke;
+
+}
+header{
+    font-family: "Tangerine"; 
+    font-size: 72px; 
+    font-style: normal; 
+}
+body {
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+    
+}
+.watch_container {
+    border: solid; 
+    border-color: #fdefa6;
+    margin: 10px;
+    border-radius: 13px;
+    alt: inherit
+}
